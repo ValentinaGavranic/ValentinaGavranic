@@ -28,6 +28,8 @@ Are you ready to become the king of the grid? Grid King is a brand new daily mat
 <br><br>
 This is a static web application created for my cousin Elvis to showcase his pizzeria — **Bei Elvis**. The website provides information about the menu, opening hours, location, and contact details, along with images of the restaurant.
 
+<br><br>
+
 ---
 
 ## 🎓 Student projects
