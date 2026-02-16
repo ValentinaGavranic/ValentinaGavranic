@@ -22,7 +22,7 @@ Are you ready to become the king of the grid? Grid King is a brand new daily mat
 ### #2 Bei Elvis
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/a8521cb0-f939-462a-86c3-908e7b26349f" /> Live: [Pizzeria web page](https://beielvis.lovable.app/) <br>
 ℹ️ static web page for pizzeria <br>
-📅 Date: 2025
+📅 Date: 2025 <br>
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/86f5179c-b918-4325-92ae-1aefef03c3ca" /> Vibe coded using Lovable <br>
 📂 [Code](https://github.com/ValentinaGavranic/pizzaelvis)
 <br><br>
