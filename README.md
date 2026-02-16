@@ -33,11 +33,22 @@ This is a static web application created for my cousin Elvis to showcase his piz
 ## 🎓 Student projects
 
 ### Android-Quiz
+⚠️ Note: This project was developed as a student assignment, and the code may not follow current best practices.<br>
 🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin, Luka Valenta <br>
 📅 Date: 2018 <br>
 ℹ️ Android application <br>
 📂 [Code](https://github.com/ValentinaGavranic/Android-Quiz) <br>
 🛠 Java, Android SDK, Ruby, CSS, HTML, JavaScript <br>
+<img src="https://github.com/ValentinaGavranic/Android-Quiz/blob/master/question_types.PNG">
+
+### Language-learning-website
+⚠️ Note: This project was developed as a student assignment, and the code may not follow current best practices.<br>
+🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin<br>
+📅 Date: 2018 <br>
+ℹ️ Web application <br>
+📂 [Code](https://github.com/ValentinaGavranic/Language-learning-website) <br>
+🛠 PHP, CSS, HTML, JavaScript <br>
+<img src="https://github.com/ValentinaGavranic/Language-learning-website/blob/master/screenshot.png">
 
 
 
