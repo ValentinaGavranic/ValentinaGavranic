@@ -50,6 +50,15 @@ This is a static web application created for my cousin Elvis to showcase his piz
 🛠 PHP, CSS, HTML, JavaScript <br>
 <img src="https://github.com/ValentinaGavranic/Language-learning-website/blob/master/screenshot.png">
 
+### #3 GPS
+⚠️ Note: This project was developed as a student assignment, and the code may not follow current best practices.<br>
+🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin<br>
+📅 Date: 2019 <br>
+ℹ️ Desktop application <br>
+📂 [Code](https://github.com/ValentinaGavranic/GPS) <br>
+🛠 C# <br>
+<img src="https://github.com/ValentinaGavranic/GPS/blob/master/screenshot.png">
+
 
 
 
