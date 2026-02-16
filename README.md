@@ -3,7 +3,9 @@
 ### GridKing
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/6f4833e7-702f-4f44-b1e0-46218360fb19" /> Live: [Google Play](https://play.google.com/store/apps/details?id=com.myown.puzzlegame) <br>
 🤝 Collaboration with [Msasbogo](https://github.com/Msasbogo) <br>
-ℹ️ Android application, No registration required!
+📅 Date: 2025
+ℹ️ Android application, No registration required! <br>
+🛠 Kotlin, Android SDK, XML
 <br><br>
 **Grid King** – The Ultimate Daily Math Puzzle Challenge!
 <br><br>
@@ -20,9 +22,23 @@ Are you ready to become the king of the grid? Grid King is a brand new daily mat
 ### Bei Elvis
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/a8521cb0-f939-462a-86c3-908e7b26349f" /> Live: [Pizzeria web page](https://beielvis.lovable.app/) <br>
 ℹ️ static web page for pizzeria <br>
-<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/86f5179c-b918-4325-92ae-1aefef03c3ca" /> Vibe coded using Lovable
+📅 Date: 2025
+<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/86f5179c-b918-4325-92ae-1aefef03c3ca" /> Vibe coded using Lovable <br>
+📂 [Code](https://github.com/ValentinaGavranic/pizzaelvis)
 <br><br>
 This is a static web application created for my cousin Elvis to showcase his pizzeria — **Bei Elvis**. The website provides information about the menu, opening hours, location, and contact details, along with images of the restaurant.
+
+---
+
+## 🎓 Student projects
+
+### Android-Quiz
+🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin, Luka Valenta <br>
+📅 Date: 2018 <br>
+ℹ️ Android application <br>
+📂 [Code](https://github.com/ValentinaGavranic/Android-Quiz) <br>
+🛠 Java, Android SDK, Ruby, CSS, HTML, JavaScript <br>
+
 
 
 
