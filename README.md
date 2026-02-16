@@ -2,9 +2,10 @@
 
 ### GridKing
 🔗 Live: [Google Play](https://play.google.com/store/apps/details?id=com.myown.puzzlegame) <br>
+🤝 Collaboration with [Msasbogo](https://github.com/Msasbogo) <br>
 ℹ️ Android application, No registration required!
 <br><br>
-Grid King – The Ultimate Daily Math Puzzle Challenge!
+**Grid King** – The Ultimate Daily Math Puzzle Challenge!
 <br><br>
 Are you ready to become the king of the grid? Grid King is a brand new daily math and logic puzzle game that will put your brain to the test every single day! Designed for all ages and skill levels, Grid King delivers fresh challenges, rewarding streaks, and an addictive puzzle experience that keeps you coming back for more.
 
@@ -15,3 +16,13 @@ Are you ready to become the king of the grid? Grid King is a brand new daily mat
   <img src="https://github.com/ValentinaGavranic/GridKing/blob/main/add.png" width="100">
   <img src="https://github.com/ValentinaGavranic/GridKing/blob/main/win.png" width="100">
 </div>
+
+### Bei Elvis
+<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/a8521cb0-f939-462a-86c3-908e7b26349f" /> Live: [Pizzeria web page](https://beielvis.lovable.app/) <br>
+ℹ️ static web page for pizzeria <br>
+<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/86f5179c-b918-4325-92ae-1aefef03c3ca" /> Vibe coded using Lovable
+<br><br>
+This is a static web application created for my cousin Elvis to showcase his pizzeria — **Bei Elvis**. The website provides information about the menu, opening hours, location, and contact details, along with images of the restaurant.
+
+
+
