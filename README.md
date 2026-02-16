@@ -3,7 +3,7 @@
 ### #1 GridKing
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/6f4833e7-702f-4f44-b1e0-46218360fb19" /> Live: [Google Play](https://play.google.com/store/apps/details?id=com.myown.puzzlegame) <br>
 🤝 Collaboration with [Msasbogo](https://github.com/Msasbogo) <br>
-📅 Date: 2025
+📅 Date: 2025 <br>
 ℹ️ Android application, No registration required! <br>
 🛠 Kotlin, Android SDK, XML
 <br><br>
