@@ -1,6 +1,6 @@
 ## 🚀 Deployed projects
 
-### GridKing
+### #1 GridKing
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/6f4833e7-702f-4f44-b1e0-46218360fb19" /> Live: [Google Play](https://play.google.com/store/apps/details?id=com.myown.puzzlegame) <br>
 🤝 Collaboration with [Msasbogo](https://github.com/Msasbogo) <br>
 📅 Date: 2025
@@ -19,7 +19,7 @@ Are you ready to become the king of the grid? Grid King is a brand new daily mat
   <img src="https://github.com/ValentinaGavranic/GridKing/blob/main/win.png" width="100">
 </div>
 
-### Bei Elvis
+### #2 Bei Elvis
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/a8521cb0-f939-462a-86c3-908e7b26349f" /> Live: [Pizzeria web page](https://beielvis.lovable.app/) <br>
 ℹ️ static web page for pizzeria <br>
 📅 Date: 2025
@@ -32,7 +32,7 @@ This is a static web application created for my cousin Elvis to showcase his piz
 
 ## 🎓 Student projects
 
-### Android-Quiz
+### #1 Android-Quiz
 ⚠️ Note: This project was developed as a student assignment, and the code may not follow current best practices.<br>
 🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin, Luka Valenta <br>
 📅 Date: 2018 <br>
@@ -41,7 +41,7 @@ This is a static web application created for my cousin Elvis to showcase his piz
 🛠 Java, Android SDK, Ruby, CSS, HTML, JavaScript <br>
 <img src="https://github.com/ValentinaGavranic/Android-Quiz/blob/master/question_types.PNG">
 
-### Language-learning-website
+### #2 Language-learning-website
 ⚠️ Note: This project was developed as a student assignment, and the code may not follow current best practices.<br>
 🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin<br>
 📅 Date: 2018 <br>
