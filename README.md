@@ -34,7 +34,9 @@ This is a static web application created for my cousin Elvis to showcase his piz
 
 ## 🎓 Student projects
 
-### #1 Android-Quiz
+<details>
+<summary> Android-Quiz </summary>
+<br>
 ⚠️ Note: This project was developed as a student assignment, and the code may not follow current best practices.<br>
 🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin, Luka Valenta <br>
 📅 Date: 2018 <br>
@@ -42,8 +44,11 @@ This is a static web application created for my cousin Elvis to showcase his piz
 📂 [Code](https://github.com/ValentinaGavranic/Android-Quiz) <br>
 🛠 Java, Android SDK, Ruby, CSS, HTML, JavaScript <br>
 <img src="https://github.com/ValentinaGavranic/Android-Quiz/blob/master/question_types.PNG">
+</details>
 
-### #2 Language-learning-website
+<details>
+<summary> Language-learning-website </summary>
+<br>
 ⚠️ Note: This project was developed as a student assignment, and the code may not follow current best practices.<br>
 🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin<br>
 📅 Date: 2018 <br>
@@ -51,8 +56,11 @@ This is a static web application created for my cousin Elvis to showcase his piz
 📂 [Code](https://github.com/ValentinaGavranic/Language-learning-website) <br>
 🛠 PHP, CSS, HTML, JavaScript <br>
 <img src="https://github.com/ValentinaGavranic/Language-learning-website/blob/master/screenshot.png">
+</details>
 
-### #3 GPS
+<details>
+<summary> GPS </summary>
+<br>
 ⚠️ Note: This project was developed as a student assignment, and the code may not follow current best practices.<br>
 🤝 Collaboration with Dajana Jerončić, Mihaela Gamulin<br>
 📅 Date: 2019 <br>
@@ -60,6 +68,7 @@ This is a static web application created for my cousin Elvis to showcase his piz
 📂 [Code](https://github.com/ValentinaGavranic/GPS) <br>
 🛠 C# <br>
 <img src="https://github.com/ValentinaGavranic/GPS/blob/master/screenshot.png">
+</details>
 
 
 
