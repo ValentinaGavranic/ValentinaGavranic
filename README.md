@@ -1,4 +1,16 @@
+## 🎨 Ongoing hobby projects
+
+### Euro Score Buddy
+<img width="18" height="18" alt="image" src="https://github.com/ValentinaGavranic/ValentinaGavranic/blob/main/euroscore_icon.png" /> Live: [Euro Score Buddy](https://euro-score-buddy.lovable.app/) <br>
+📅 Date: 2026 <br>
+<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/86f5179c-b918-4325-92ae-1aefef03c3ca" /> Vibe coded using Lovable
+<br><br>
+**Euro Score Buddy** is a real-time collaborative web app for scoring Eurovision performances with friends. Create a room, pick scoring categories (or add your own), and share the link. Each participant scores independently, and after the show, calculate your **EuroScore** to see who predicted the official results most accurately.
+
+---
+
 ## 🚀 Deployed projects
+
 
 ### #1 GridKing
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/6f4833e7-702f-4f44-b1e0-46218360fb19" /> Live: [Google Play](https://play.google.com/store/apps/details?id=com.myown.puzzlegame) <br>
