@@ -1,3 +1,6 @@
+## Learning repository
+
+---
 ## 🎨 Ongoing hobby projects
 
 ### Euro Score Buddy
