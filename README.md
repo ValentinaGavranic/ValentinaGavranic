@@ -1,4 +1,3 @@
----
 ## 🎨 Ongoing hobby projects
 
 ### Euro Score Buddy
