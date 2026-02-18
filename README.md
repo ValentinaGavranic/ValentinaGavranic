@@ -1,5 +1,3 @@
-## Learning repository
-
 ---
 ## 🎨 Ongoing hobby projects
 
